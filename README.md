@@ -5,6 +5,6 @@ ReactJS Audiobook.
 
 2. Run npm install.
 
-3. Run npm run start the app.
+3. Run npm run start to start the app.
 
 4. Way to go!
