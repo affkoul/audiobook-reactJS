@@ -1,0 +1,32 @@
+.wrapper {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  margin: 0;
+  font-size: 40px;
+}
+
+.description {
+  margin: 0;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.cover {
+  height: 100%;
+  width: 270px;
+  box-shadow: 0 24px 35px -16px rgba(107,179,237,.5);
+  border-radius: 5px;
+}
+
+.cover-playlist {
+  height: 50px;
+  width: 50px;
+}
+
+.cover-playlist > .cover {
+  margin-right: 15px;
+  width: 50px;
+}
