@@ -15,4 +15,4 @@ ReactJS Audiobook.
 
 Aubio Book App Provided by [GAC DEV](https://geniusandcourage.com)
 
-![Aubio Book App](https://hlwsdtech.com:8081/images/audio-player.png)
+![Aubio Book App](https://hlwsdtech.com:8081/images/audio-player.jpg)
